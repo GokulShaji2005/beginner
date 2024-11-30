@@ -18,7 +18,7 @@ elif operator=="/":
 else:
     print("Invalid operator")
     
-#Enter the operator:*
-#Enter the first number:2
-#Enter the second number:3
-#2 * 3 = 6
+Enter the operator:*
+Enter the first number:2
+Enter the second number:3
+2 * 3 = 6
